@@ -1,0 +1,11 @@
+HOW to run
+
+In shell
+#+begin_src bash
+cat input > cargo r
+#+end_src
+
+In nushell
+#+begin_src bash
+cat input | cargo r
+#+end_src
