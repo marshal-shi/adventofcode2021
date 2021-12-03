@@ -1,6 +1,5 @@
-use std::io::{stdin, Read};
-
 use anyhow;
+use std::io::{stdin, Read};
 
 fn string_to_vec(input: String) -> Vec<i32> {
     input
